@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gifoojiech.drmobiles.co.nz/sitemap.xml
